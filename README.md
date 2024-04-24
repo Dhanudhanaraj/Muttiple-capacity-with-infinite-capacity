@@ -22,7 +22,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program
 ```
 NAME:Dhanumalya.D
-RGEISTER NUMBER:212222230030
+REGISTER NUMBER:212222230030
 ```
 ```
 import math
